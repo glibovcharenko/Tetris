@@ -20,11 +20,11 @@ Our project is a fun and addictive web-based Tetris game, built using JavaScript
 ## Setup
 Clone the repository
 ```
-git clone https://01.kood.tech/git/ekhalets/make-your-game.git
+git clone https://github.com/glibovcharenko/Tetris.git
 ```
 
 ## Usage
-Run <code>.go</code> file from <code>../make-your-game</code> folder
+Run <code>.go</code> file from <code>../Tetris</code> folder
 ```
 go run . 
 ```
